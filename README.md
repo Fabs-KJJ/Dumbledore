@@ -23,7 +23,7 @@ To explore different features or versions of the project, you can switch between
 
 2. Clone the repository to your local machine using 
 ```bash
-git clone https://github.com/Alexandranuthu/stayzen.git
+git clone https://github.com/Fabs-KJJ/Dumbledore.git
 ```
 
 3. Open the project folder in Android Studio or Visual Code.
