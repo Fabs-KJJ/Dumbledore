@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "864961822276",
+    "project_id": "stayzen-93268",
+    "storage_bucket": "stayzen-93268.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864961822276:android:68478cfa5e17eae57b8611",
+        "android_client_info": {
+          "package_name": "com.example.stayzen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHoX0Qg63rRY6cIo6dgvfBSMrs4xWwDmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
