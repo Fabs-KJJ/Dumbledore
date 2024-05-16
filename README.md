@@ -1,4 +1,4 @@
-# Stay Zen 🧘🏽‍♂️
+# Dumble Dore 🧘🏽‍♂️
 
 Stay Zen is a Flutter-based hotel management application designed to streamline hotel operations and enhance the guest experience. The app offers a range of features tailored to meet the needs of hotel staff and guests alike.
 
